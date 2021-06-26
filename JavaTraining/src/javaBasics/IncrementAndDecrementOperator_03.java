@@ -1,6 +1,6 @@
 package javaBasics;
 
-public class IncrementAndDecrementOperator {
+public class IncrementAndDecrementOperator_03 {
 
 	public static void main(String[] args) {
 		
