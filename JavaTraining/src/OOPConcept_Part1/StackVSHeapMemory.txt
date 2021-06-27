@@ -1,0 +1,30 @@
+#Java Memory Management
+
+-->Stack:
+1. Follows LIFO order
+2. Object reference variable, non static methods, local variables are stored here.
+3. Memory life is till current method
+4.Faster than heap
+5. Automatically allocation is done(Method is called and returned)
+
+-->HEAP:
+1.have sub memory --> Young generation,  EDEN, Survivor1, Survivor2 etc
+2.Object are created in heap and copy of class instance var is store in heap 
+3.Object are created in EDEN first
+4. when EDEN is full and minor garbage collector comes to clear space EDEN transfer objects to Survivor1
+5. minor garbage collector destroys object with no object reference only.
+6. Memory life is Application/Program execution
+7. Slower
+8. Allocation will happen when object is created and deallocation happens when garbage collector called and only no reference object or null reference object are destroyed
+
+-->Permanent Generation(name before JDK 8)
+1. Stores only Static value/methods
+2.Size was fixed
+
+Meta space(After JDK 8)
+1. Size was dynamic
+2.Operate on native OS
+3. Common Memory Allocation concept
+
+
+ 
