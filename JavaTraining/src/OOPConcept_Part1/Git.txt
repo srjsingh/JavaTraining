@@ -1,14 +1,27 @@
 PUSH
-1. git init
-2. git remote add origin https://github.com/srjsingh/Practice1.git
-3. git status
-4. git add .
-5. git status
-6. git commit -m "comment"
-7. git push origin master
+1. in cmd navigate to directory
+2. git init
+3. git remote add origin https://github.com/srjsingh/Practice1.git
+4. git status
+5. git add .
+6. git status
+7. git commit -m "comment"
+8. git push origin master
 
 PULL
 1. create directory where you want to pull
-2. git clone https://github.com/srjsingh/ExtentReportScreenshot
-3. import in eclipse
-4. git pull origin master(after change in code)
+2. navigate to directory in cmd
+3. git clone https://github.com/srjsingh/ExtentReportScreenshot
+4. import in eclipse
+5. git pull origin master(after change in code)
+
+To push code in different branch
+1. create new branch in git
+2. navigate to directory in cmd
+3. git branch
+4. git pull origin <branch name>
+5. git branch
+6. git checkout <new branch name>
+7. git branch
+
+Add pull request: after completion of code
