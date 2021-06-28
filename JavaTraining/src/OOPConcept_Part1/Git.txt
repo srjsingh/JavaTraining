@@ -11,3 +11,4 @@ PULL
 1. create directory where you want to pull
 2. git clone https://github.com/srjsingh/ExtentReportScreenshot
 3. import in eclipse
+4. git pull origin master(after change in code)
