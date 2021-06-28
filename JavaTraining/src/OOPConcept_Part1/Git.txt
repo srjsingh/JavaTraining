@@ -1,0 +1,10 @@
+PUSH
+1. git init
+2. git remote add origin https://github.com/srjsingh/Practice.git
+3. git status
+4. git add .
+5. git status
+6. git config --global user.email "you@example.com"
+7. git config --global user.name "Your Name"
+8. git commit -m "comment"
+9. git push origin master
