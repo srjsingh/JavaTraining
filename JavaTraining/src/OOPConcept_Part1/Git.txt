@@ -6,3 +6,8 @@ PUSH
 5. git status
 6. git commit -m "comment"
 7. git push origin master
+
+PULL
+1. create directory where you want to pull
+2. git clone https://github.com/srjsingh/ExtentReportScreenshot
+3. import in eclipse
