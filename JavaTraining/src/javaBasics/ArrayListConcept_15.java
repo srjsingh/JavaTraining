@@ -6,7 +6,7 @@ public class ArrayListConcept_15 {
 
 	public static void main(String[] args) {
 
-		ArrayList ar =new ArrayList();
+		ArrayList ar = new ArrayList();
 		
 		ar.add(100);
 		ar.add(200);
