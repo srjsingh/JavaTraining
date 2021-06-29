@@ -1,4 +1,4 @@
-package OOPConcept_Part2;
+package OOPConcept_Part2.InheritanceConcept;
 
 public class Vehicle {
 

@@ -1,4 +1,4 @@
-package OOPConcept_Part2;
+package OOPConcept_Part2.InterfaceConcept;
 
 public class TestBank {
 

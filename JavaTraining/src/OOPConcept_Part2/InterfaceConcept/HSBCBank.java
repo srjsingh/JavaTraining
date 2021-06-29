@@ -1,4 +1,4 @@
-package OOPConcept_Part2;
+package OOPConcept_Part2.InterfaceConcept;
 
 //to define relation between interface and class implements is used
 public class HSBCBank implements USBank, BrazilBank{ // implementing multiple inheritance
