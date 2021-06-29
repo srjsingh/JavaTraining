@@ -1,13 +1,13 @@
 package OOPConcept_Part1;
 
-public class CallByValueAndCallByReference {
+public class CallByValueAndCallByReference_12 {
 
 	int p;
 	int q;
 	
 	public static void main(String[] args) {
 		
-		CallByValueAndCallByReference obj = new CallByValueAndCallByReference();
+		CallByValueAndCallByReference_12 obj = new CallByValueAndCallByReference_12();
 		int x = 10;
 		int y = 20;
 		obj.testSum(x, y); //call by value or pass by value --> copy of variable value is passed
@@ -31,7 +31,7 @@ public class CallByValueAndCallByReference {
 	}
 	
 	// call by reference --> we pass reference as an argument
-	public void swap(CallByValueAndCallByReference t) {
+	public void swap(CallByValueAndCallByReference_12 t) {
 		
 		int temp;
 		temp = t.p;

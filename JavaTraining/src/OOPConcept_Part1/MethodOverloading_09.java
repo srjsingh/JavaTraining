@@ -1,10 +1,10 @@
 package OOPConcept_Part1;
 
-public class MethodOverloading {
+public class MethodOverloading_09 {
 
 	public static void main(String[] args) {
 
-		MethodOverloading obj = new MethodOverloading();
+		MethodOverloading_09 obj = new MethodOverloading_09();
 		
 		obj.sum();
 		obj.sum(10);

@@ -1,4 +1,4 @@
-package OOPConcept_Part2.InheritanceConcept;
+package OOPConcept_Part2.InheritanceConcept_13;
 
 public class Car extends Vehicle{
 

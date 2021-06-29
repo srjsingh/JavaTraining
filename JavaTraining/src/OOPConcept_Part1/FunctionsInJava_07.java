@@ -1,12 +1,12 @@
 package OOPConcept_Part1;
 
-public class FunctionsInJava {
+public class FunctionsInJava_07 {
 
-	// main method -->staring point of execution
+	// main method -->starting point of execution
 	public static void main(String[] args) {
 		
-		FunctionsInJava obj = new FunctionsInJava();
-		//one object will be create, obj is the reference variable, referring to the object
+		FunctionsInJava_07 obj = new FunctionsInJava_07();
+		//one object will be created, obj is the reference variable referring to the object
 		//after creating the object, the copy of all the non static methods will be given to this object
 		
 		obj.test();

@@ -1,4 +1,4 @@
-package OOPConcept_Part1;
+package OOPConcept_Part1.ClassAndObject_06;
 
 public class Car { // class is a entity for defining behaviour or properties of that class
 	

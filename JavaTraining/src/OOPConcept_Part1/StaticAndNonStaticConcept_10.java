@@ -1,6 +1,6 @@
 package OOPConcept_Part1;
 
-public class StaticAndNonStaticConcept {
+public class StaticAndNonStaticConcept_10 {
 	
 	//golbal vars: the scope of global vars will be available across all the functions with some conditions.
 
@@ -14,13 +14,13 @@ public class StaticAndNonStaticConcept {
 		sum();
 		
 		//2. calling by class name
-		StaticAndNonStaticConcept.sum();
+		StaticAndNonStaticConcept_10.sum();
 		
 		// how to call static vars
 		System.out.println(age); // by name
-		System.out.println(StaticAndNonStaticConcept.age); // by class name
+		System.out.println(StaticAndNonStaticConcept_10.age); // by class name
 		
-		StaticAndNonStaticConcept obj = new StaticAndNonStaticConcept();
+		StaticAndNonStaticConcept_10 obj = new StaticAndNonStaticConcept_10();
 		System.out.println(obj.name);
 		System.out.println(obj.age); // static var by object reference
 		obj.sendMail();

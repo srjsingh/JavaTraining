@@ -1,6 +1,6 @@
 package OOPConcept_Part1;
 
-public class WrapperClassConcept {
+public class WrapperClassConcept_11 {
 
 	public static void main(String[] args) {
 		

@@ -1,6 +1,6 @@
 package OOPConcept_Part1;
 
-public class LocalVSGlobalVariables {
+public class LocalVSGlobalVariables_08 {
 	
 	//Global vars --> class variable
 	String name = "Tom";
@@ -11,7 +11,7 @@ public class LocalVSGlobalVariables {
 		int i = 10;// i is local var for main method
 		System.out.println(i);
 		
-		LocalVSGlobalVariables obj = new LocalVSGlobalVariables();
+		LocalVSGlobalVariables_08 obj = new LocalVSGlobalVariables_08();
 		System.out.println(obj.age);
 		System.out.println(obj.name);
 
