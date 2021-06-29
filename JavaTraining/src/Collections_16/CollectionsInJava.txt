@@ -1,0 +1,5 @@
+Collection: Framework to store and manipulate the groups of objects.
+Operations: Searching, Insertion, Manipulation, Deletion, Sorting
+
+Interfaces: Set, List, Queue, Dequeue
+Classes: ArrayList, Vector, LinkedList, HashSet, TreeSet, PriorityQueue
