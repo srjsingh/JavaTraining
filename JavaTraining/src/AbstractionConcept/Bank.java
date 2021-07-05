@@ -2,6 +2,8 @@ package AbstractionConcept;
 
 public abstract class Bank {
 
+	int amt = 100;
+	
 	// partial abstraction
 	// hiding the implementation logic is called abstraction
 	//abstract class can have both abstract and non abstract methods 
