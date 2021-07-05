@@ -4,6 +4,7 @@ public abstract class Bank {
 
 	// partial abstraction
 	// hiding the implementation logic is called abstraction
+	//abstract class can have both abstract and non abstract methods 
 
 	public abstract void loan(); // abstract method -> no method body
 
