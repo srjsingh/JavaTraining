@@ -10,8 +10,6 @@ public class ConstructorWithThisKeyword {
 		this.name = "Suraj"; //this keyword is used to access variable of constructor
 		this.age = 24;
 		
-		//name = "Singh"; // this will initialize constructor variable
-		
 		System.out.println(this.name);
 		System.out.println(this.age);
 		
