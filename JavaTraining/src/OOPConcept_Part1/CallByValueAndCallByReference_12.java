@@ -10,7 +10,7 @@ public class CallByValueAndCallByReference_12 {
 		CallByValueAndCallByReference_12 obj = new CallByValueAndCallByReference_12();
 		int x = 10;
 		int y = 20;
-		obj.testSum(x, y); //call by value or pass by value --> copy of variable value is passed
+		System.out.println(obj.testSum(x, y)); //call by value or pass by value --> copy of variable value is passed
 
 		obj.p = 50;
 		obj.q = 60;
