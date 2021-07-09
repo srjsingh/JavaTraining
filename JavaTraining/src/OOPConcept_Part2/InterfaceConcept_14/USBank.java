@@ -12,8 +12,7 @@ public interface USBank {
 
 	// only method declaration
 	// no method body - only method prototype
-	// in interface we can declare the variables, vars are by default static in
-	// nature
+	// in interface we can declare the variables, vars are by default static in nature
 	// vars value will not be changed, its constant in nature
 	// no static methods in interface
 	// no main method in interface
