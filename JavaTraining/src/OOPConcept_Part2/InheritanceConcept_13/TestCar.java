@@ -24,7 +24,7 @@ public class TestCar {
 		c1.stop();
 		
 		//Down casting
-		//BMW b1 = (BMW) new Car(); //****Class cast exception**** comes in down cating
+		//BMW b1 = (BMW) new Car(); //****Class cast exception**** comes in down casting
 		
 	}
 
