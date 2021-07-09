@@ -12,13 +12,13 @@ public class ThrowsKeyword {
 
 	}
 
-	public void sum() throws ArithmeticException{
+	public void sum() throws ArithmeticException{ // throws is used when method chaining is used and it can't print message
 
 		try {
 			
 			div();
 			
-		} catch (Exception e) {
+		} catch (Throwable e) { // throwable is super class of all error and exception
 			
 			e.printStackTrace();
 			System.out.println(e.getMessage());
