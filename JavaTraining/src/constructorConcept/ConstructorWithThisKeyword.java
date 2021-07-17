@@ -13,8 +13,8 @@ public class ConstructorWithThisKeyword {
 		System.out.println(this.name);
 		System.out.println(this.age);
 		
-//		System.out.println(name);
-//		System.err.println(age);
+		System.out.println(name);
+		System.err.println(age);
 	}
 
 	public static void main(String[] args) {
