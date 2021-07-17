@@ -1,6 +1,8 @@
 package javaBasics;
 
 import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
 
 public class ArrayListConcept_15 {
 
@@ -27,9 +29,20 @@ public class ArrayListConcept_15 {
 		
 		System.out.println(ar.get(3));
 		
+		
+		// iterating array list using for loop
 		for(int i = 0; i<ar.size(); i++) {
 			System.out.println(ar.get(i));
 		}
+		
+		// iterating array list using iterator
+		Iterator it = ar.iterator();
+		while(it.hasNext()) {
+			
+			System.out.println(it.next());
+			
+		}
+		
 		
 		//generics
 		ArrayList<Integer> ar1 = new ArrayList();
