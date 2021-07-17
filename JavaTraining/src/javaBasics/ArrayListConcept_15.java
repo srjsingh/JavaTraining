@@ -31,6 +31,7 @@ public class ArrayListConcept_15 {
 			System.out.println(ar.get(i));
 		}
 		
+		//generics
 		ArrayList<Integer> ar1 = new ArrayList();
 		ar1.add(100);
 		//ar1.add("Tom"); // not allowed only integer value is accepted
