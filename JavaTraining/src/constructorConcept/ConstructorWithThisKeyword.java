@@ -7,7 +7,7 @@ public class ConstructorWithThisKeyword {
 	
 	public ConstructorWithThisKeyword(String name, int age) {
 		
-		this.name = "Suraj"; //this keyword is used to access variable of constructor
+		this.name = "Suraj"; //this keyword is used to access variable of class
 		this.age = 24;
 		
 		System.out.println(this.name);
