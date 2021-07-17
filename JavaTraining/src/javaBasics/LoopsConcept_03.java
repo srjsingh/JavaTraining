@@ -1,7 +1,5 @@
 package javaBasics;
 
-import java.util.Iterator;
-
 public class LoopsConcept_03 {
 
 	public static void main(String[] args) {
