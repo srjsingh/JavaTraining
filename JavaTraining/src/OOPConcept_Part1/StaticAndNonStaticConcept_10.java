@@ -10,7 +10,7 @@ public class StaticAndNonStaticConcept_10 {
 
 	public static void main(String[] args) {
 
-		// how to all static methods
+		// how to call static methods
 		// 1. directly by name
 		sum();
 

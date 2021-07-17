@@ -1,4 +1,4 @@
-package javaBasics;
+package constructorConcept;
 
 public class ConstructorConcept {
 
